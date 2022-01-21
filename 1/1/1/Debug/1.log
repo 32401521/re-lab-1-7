@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\user\Desktop\7\1\source\main.c(7,47): warning C4474: 'printf': 傳遞給格式字串的引數太多
+C:\Users\user\Desktop\7\1\source\main.c(7,47): message : 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+C:\Users\user\Desktop\7\1\source\main.c(9,27): warning C4474: 'scanf': 傳遞給格式字串的引數太多
+C:\Users\user\Desktop\7\1\source\main.c(9,27): message : 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+C:\Users\user\Desktop\7\1\source\main.c(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\7\1\source\main.c(9,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
